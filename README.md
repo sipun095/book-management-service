@@ -1,11 +1,15 @@
 Manages the book catalog, including adding, updating, and retrieving books.
+
 Key Functionalities:
+
 	•	Add, update, and delete books.
+ 
 	•	Retrieve book details.
 
 
 
-Authentication Service : Handles user registration, login, and JWT token generation.
+Authentication Service : Handles user registration, login, and JWT token generation. (https://github.com/sipun095/authentication-service)
+
 
 User Profile Service : Manages user profiles, including updating user details.
 
